@@ -146,3 +146,7 @@ p{
     align-content: center;
     justify-content: center;
   }
+
+  .greeting {
+    text-align: center;
+  }
